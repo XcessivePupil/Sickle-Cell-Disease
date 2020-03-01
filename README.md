@@ -7,5 +7,5 @@ In bioinformatics, sequence alignment is a way of arranging the sequences of DNA
 or protein to identify regions of similarity that may be a consequence of functional,
 structural or evolutionary relationships between the sequence.
 
-This is more an exercise is showcasing some core Python programming skills than it is an exercise in bioinformatics.
+This is more an exercise in showcasing some core Python programming skills than it is an exercise in bioinformatics.
 The project deals with some basic data structures, conditional statements, loops as well as reading and writing to and from external documents.
