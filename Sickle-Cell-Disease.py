@@ -1,21 +1,23 @@
 """
-In bioinformatics, sequence alignment is a way of arranging the sequences of DNA, RNA
-or protein to identify regions of similarity that may be a consequence of functional,
-structural or evolutionary relationships between the sequence.
 
 This program simulates the effects of the Single Nucleotide Polymorphism that leads to sickle cell disease.
+It also groups both mutated and normal DNA compounds into corresponding amino acid groups.
 
 This is done by:
 
 1. Creating a function that translates a DNA sequence to its corresponding amino acid
-2. Creating a function that reads in the external DNA.txt file. Two new text files are then created, one named normalDNA.txt and the other
-named mutatedDNA.txt.
+
+2. Creating a function that reads in the external DNA.txt file. Two new text files are then created, one named normalDNA.txt 
+and the other named mutatedDNA.txt.
+
    ● The file normalDNA.txt has the same DNA sequence as DNA.txt with the 'a'
      changed to an 'A'.
    ● The file mutatedDNA.txt has the same DNA sequence as DNA.txt with the 'a'
      changed to a 'T'.
+
 3. Creating a function that reads in the two new text files and calls the original translate function in order 
-   to classify the DNA values in each file to their corresponding amino acids. The amino acids of each file are then displayed to the user.   
+   to classify the DNA values in each file to their corresponding amino acids. The amino acids of each file are
+   then displayed to the user.   
 """
 
 def translate(DNA):  # this function is given an input of a DNA sequence which is then categorised into its amino acid group
