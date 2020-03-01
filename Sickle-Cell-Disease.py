@@ -1,7 +1,7 @@
 """
 
 This program simulates the effects of the Single Nucleotide Polymorphism that leads to sickle cell disease.
-It also groups both mutated and normal DNA compounds into corresponding amino acid groups.
+It also groups both mutated and normal DNA structures into corresponding amino acid groups.
 
 This is done by:
 
