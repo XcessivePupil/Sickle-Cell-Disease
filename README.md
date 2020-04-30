@@ -1,6 +1,6 @@
 # Sickle-Cell-Disease
 
-A basic python program that imitates the effects of Sickle Cell Disease on DNA before grouping the DNA structures
+A basic Python program that imitates the effects of Sickle Cell Disease on DNA before grouping the DNA structures
 to corresponding amino acids.
 
 In bioinformatics, sequence alignment is a way of arranging the sequences of DNA, RNA
